@@ -4,6 +4,8 @@ var $portfolio_selectors;
 var $blog;
 
 $(document).ready(function () {
+    console.log("page ready")
+    document.getElementsByTagName("html")[0].style.visibility = "visible";
 
     // Show Animated Counters
     animatecounters();
