@@ -2014,8 +2014,8 @@ thead th.first { padding-left: 0 !important; }
 .corporate-slider h1 { font-size:50px; text-transform: inherit; line-height: 55px;}
 .highlight-link-text {padding:0 25px; display:inline-block; line-height:30px !important;}
 .highlight-link { padding:5px 13px; font-size:10px; font-weight:600; letter-spacing:2px; background: #fff; }
-.highlight-link-pyrad { padding: 10px 50px; font-size: 14px; font-weight: 600; letter-spacing: 2px; background: #fff; }
-    
+.highlight-link-pyrad { padding: 10px 50px; font-size: 14px; font-weight: 600; letter-spacing: 2px; background-color: #40826D !important;  color:#fff !important; }
+.highlight-link-pyrad:hover { background:#fff  !important; color:#000 !important ;  }   
 
 
 .highlight-link:hover { background:#40826D}
