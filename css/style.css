@@ -2062,3 +2062,7 @@ thead th.first { padding-left: 0 !important; }
 
 
 html { visibility:hidden }
+
+.movie {
+    padding-top: 0px  !important ;
+}
